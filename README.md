@@ -136,24 +136,18 @@ The Power BI dashboard provides:
 
 ### Python Analysis (Jupyter Notebook)
 
-Open the project notebook (.ipynb) in Jupyter
-
-Run cells sequentially to perform:
-
-Data loading
-
-Exploratory Data Analysis (EDA)
-
-Data cleaning
-
-Feature engineering
-
-Data preparation for database loading
+  * Open the project notebook (.ipynb) in Jupyter
+  * Run cells sequentially to perform:
+  * Data loading
+  * Exploratory Data Analysis (EDA)
+  * Data cleaning
+  * Feature engineering
+  * Data preparation for database loading
+    
 ### SQL
 
 * Import cleaned dataset into:
-
-  * PostgreSQL / MySQL / SQL Server
+  * MySQL 
 * Run provided SQL scripts for business analysis
 
 ### Power BI
