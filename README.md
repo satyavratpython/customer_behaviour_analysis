@@ -33,9 +33,9 @@ The project demonstrates an end-to-end data analytics workflow suitable for real
 ## Tools & Technologies
 
 * **Python:** Pandas, NumPy, Matplotlib, Seaborn
-* **Databases:** PostgreSQL / MySQL / SQL Server
+* **Databases:** MySQL
 * **BI Tool:** Power BI
-* **Reporting:** Structured business report (PDF/Doc)
+* **Reporting:** Structured business report (PDF)
 * **Presentation:** Gamma (PPT generation)
 
 ---
@@ -64,7 +64,7 @@ The project demonstrates an end-to-end data analytics workflow suitable for real
   * `purchase_frequency_days`
 * Redundancy checks and column optimization
 
-### 4. SQL Analysis (PostgreSQL / MySQL / SQL Server)
+### 4. SQL Analysis ( MySQL )
 
 Business-focused SQL queries were executed to analyze:
 
