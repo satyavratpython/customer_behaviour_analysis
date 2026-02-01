@@ -134,16 +134,21 @@ The Power BI dashboard provides:
 
 ## How to Run the Project
 
-### Python Analysis
+### Python Analysis (Jupyter Notebook)
 
-```bash
-pip install pandas numpy matplotlib seaborn psycopg2
-```
+Open the project notebook (.ipynb) in Jupyter
 
-```python
-python analysis.py
-```
+Run cells sequentially to perform:
 
+Data loading
+
+Exploratory Data Analysis (EDA)
+
+Data cleaning
+
+Feature engineering
+
+Data preparation for database loading
 ### SQL
 
 * Import cleaned dataset into:
